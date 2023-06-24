@@ -5,6 +5,7 @@ Este repositório contém um projeto de um CRUD (Create, Read, Update, Delete) s
 Para executar este projeto, você precisará ter as seguintes ferramentas instaladas em seu ambiente de desenvolvimento:
 
 IDE: IntelliJ IDEA Community Edition 2023.1.3
+
 JDK: openjdk-20
 ## Instalação
 1- Clone este repositório em sua máquina local:
